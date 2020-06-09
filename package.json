@@ -1,0 +1,14 @@
+{
+  "name": "ecoletanlw",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Roberto da Silva Neto",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
